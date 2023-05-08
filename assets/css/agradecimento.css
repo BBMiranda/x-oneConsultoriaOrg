@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+/*------------------------------------------------------------------
+Body / body
+-------------------------------------------------------------------*/
+body {
+  font-weight: 300;
+  min-width: 320px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*----------- Heading / Heading ---------------*/
+
+.overlay:before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/*------------------------------------------------------------------
+Main / #main
+-------------------------------------------------------------------*/
+
+#main {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+/*------------------------------------------------------------------
+Hero Area / .hero-area
+-------------------------------------------------------------------*/
+
+.hero-area {
+  overflow: visible;
+  color: #fff;
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 300;
+  margin-bottom: 60px;
+  padding-top: 200px;
+  position: relative;
+  z-index: 1;
+  background-size: cover;
+  background-position: 50% 50%;
+  letter-spacing: 1px;
+  height: 100vh;
+}
+
+.hero-area h1 {
+  color: #fff;
+  font-size: 46px;
+  line-height: 50px;
+  font-weight: 700;
+  margin: 0 0 8px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.09);
+}
+
+.hero-area h1 .text-small {
+  font: 300 17px/35px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: block;
+  margin: 0 0 16px;
+  text-transform: lowercase;
+}
+.ponto {
+  color: #55e880;
+  font-family: poppins;
+  
+}
+
+
+
+#particles-js,
+#bgvid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: 1s opacity;
+  transition: 1s opacity;
+}
+
+.hero-area button{
+  background-color: #55e880;
+  padding: 10px 24px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: #55e880;
+}
+.hero-area a{
+  color: white;
+}
+
+.hero-area a:hover{
+  color: white;
+}
+
+.hero-area button:hover{
+  background-image: linear-gradient(270deg, #b2ff8a 0, #9bfc89 16.67%, #7ef385 33.33%, #58e880 50%, #16dd7c 66.67%, #00d47c 83.33%, #00cd7f 100%);
+  
+}
+
+/*------------------------------------------------------------------
+Loader Holder / .loader-holder
+-------------------------------------------------------------------*/
+
+.loader-holder {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.loader-holder .block {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
