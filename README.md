@@ -1,4 +1,4 @@
-# X ONE. Consultoria
+# X-ONE. Consultoria
 <h1 align="center">
    <a href="https://glittery-kringle-a9ac06.netlify.app/index.html">
 	  <img alt="Logo" width="400px" height="369px"src="img/xoneLogin (1).png" />
