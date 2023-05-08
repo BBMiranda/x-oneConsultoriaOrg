@@ -55,16 +55,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Our home with the most important reports
     <br>
    <a href="https://github.com/AndLuna">
-	 <img alt="Logo" width="820px"  height="469px" src="xoneHome.png" />
-	</a>
-    <br>
-    <br>
+   	<img alt="Logo" width="820px"  height="469px" src="img/xoneHome.png" />
+   </a>
+   <br>
+   <br>
 </h1>
 <h1 align="center">
 Our ChatBot integrated with our social network
     <br>
    <a href="https://github.com/AndLuna">
-	 <img alt="Logo" width="820px"  height="469px" src="xoneBot.png" />
+	 <img alt="Logo" width="820px"  height="469px" src="img/xoneBot.png" />
 	</a>
     <br>   
     <br>
@@ -73,7 +73,7 @@ Our ChatBot integrated with our social network
  Our Communitty
      <br>
    <a href="https://github.com/AndLuna">
-	 <img alt="Logo" width="820px"  height="469px"src="xoneComunity.png" />
+	 <img alt="Logo" width="820px"  height="469px"src="img/xoneComunity.png" />
 	</a>
     <br>   
     <br>
@@ -83,7 +83,7 @@ Our ChatBot integrated with our social network
  Our Account GPS location System 
      <br>
    <a href="https://github.com/AndLuna/map-location">
-	 <img alt="Logo" width="820px" height="469px" src="xOneMap.png" />
+	 <img alt="Logo" width="820px" height="469px" src="img/xOneMap.png" />
 	</a>
     <br>   
     <br>
