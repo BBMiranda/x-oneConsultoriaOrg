@@ -1,19 +1,18 @@
-# XONE Consultoria
+# X ONE. Consultoria
 <h1 align="center">
    <a href="https://glittery-kringle-a9ac06.netlify.app/index.html">
-	  <img alt="Logo" width="400px" height="369px"src="xoneLogin (1).png" />
+	  <img alt="Logo" width="400px" height="369px"src="img/xoneLogin (1).png" />
 	</a>
     <br>
 </h1>
 
 <p align="center">
  
-  <img alt="Feito por" src="https://img.shields.io/badge/Made%20By-Grupo%2008%20SoulCode-yellow">
+  <img alt="Feito por" src="https://img.shields.io/badge/Made%20By-Grupo%2007%20SoulCode-yellow">
 	 <a href="readme.md#contato">
   </a>
   
   <img alt="Languages" src="https://img.shields.io/badge/Language-3-orange">
-  
   <img alt="Top Language" src="https://img.shields.io/badge/HTML-58.6%25-orange">
   <img alt="Top Language" src="https://img.shields.io/badge/CSS-38.6%25-purple">
   <img alt="Top Language" src="https://img.shields.io/badge/JS-2.8%25-yellow">
@@ -54,7 +53,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <h1 align="center">
 Our home with the most important reports
     <br>
-   <a href="https://github.com/AndLuna">
+   <a href="https://github.com/BBMiranda">
    	<img alt="Logo" width="820px"  height="469px" src="img/xoneHome.png" />
    </a>
    <br>
